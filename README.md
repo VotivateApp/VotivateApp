@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @VotivateDeveloper
 - 👀 I’m interested in mobile development
 - 🌱 I’m currently learning flutter
-- ⚡ Fun fact: Votivate was created for Capstone Project of KatriboPLUS DevTeam of Assumption College of Davao BSIT Program.
+- ⚡ Fun fact: Votivate was created for the Capstone Project of the KatriboPLUS DevTeam at Assumption College of Davao's BSIT Program.
 
 <!---
 VotivateApp/VotivateApp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
